@@ -1,12 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/AgweBryan/)
-<h1 align="center">Hi ðŸ‘‹, I'm Agwe Bryan</h1>
-<h3 align="center">A passionate flutter developer from Cameroon</h3>
+<h1 align="center">Hi, I'm Etang KencliffAndock</h1>
+<h3 align="center">A Full Stack Web Development enthusiast. </h3>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/AgweBryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agwebryan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/agwe-bryan-422a021b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agwe bryan" height="30" width="40" /></a>
+<a href="https://twitter.com/EKencliff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agwebryan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/etang-kencliff-andock-tabi-atem-085226240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agwe bryan" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100084939476990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryan agwe" height="30" width="40" /></a>
 </p>  
 
